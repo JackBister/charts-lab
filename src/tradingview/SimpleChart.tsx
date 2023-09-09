@@ -1,4 +1,4 @@
-import { createChart, ColorType, UTCTimestamp } from "lightweight-charts";
+import { createChart, UTCTimestamp } from "lightweight-charts";
 import { useRef, useEffect } from "react";
 import { MergedDataPoint } from "../utils";
 
@@ -17,15 +17,6 @@ export const SimpleChart = ({ data }: { data: MergedDataPoint[] }) => {
     };
 
     const chart = createChart(chartContainerRef.current, {
-      /*
-      layout: {
-        background: {
-          type: ColorType.VerticalGradient,
-          topColor: "rgba(130, 202, 157, 0.8)",
-          bottomColor: "rgba(130, 202, 157, 0)",
-        },
-      },
-      */
       width: chartContainerRef.current.clientWidth,
       height: 400,
     });
