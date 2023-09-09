@@ -1,4 +1,15 @@
-import { TooltipProps, ComposedChart, XAxis, YAxis, Tooltip, Bar, Cell, Area, ReferenceDot } from "recharts";
+import {
+  TooltipProps,
+  ComposedChart,
+  XAxis,
+  YAxis,
+  Tooltip,
+  Bar,
+  Cell,
+  Area,
+  ReferenceDot,
+  ResponsiveContainer,
+} from "recharts";
 import { MergedDataPoint, Transaction, longDateFormatter, calculateAxisParameters, shortDateFormatter } from "../utils";
 import { TransactionReferenceDot } from "./shared";
 import * as transactions from "../assets/transactions.json";
@@ -148,24 +159,33 @@ const Candlestick = ({
 export const CandlestickChart = ({ data }: { data: MergedDataPoint[] }) => {
   const { xMin, xMax, yMin, yMax, ticks } = calculateAxisParameters(data);
   return (
-    <ComposedChart width={800} height={400} data={data}>
-      <XAxis dataKey="timestamp" tickFormatter={(v) => shortDateFormatter.format(v)} domain={[xMin, xMax]} />
-      <YAxis domain={[yMin, yMax]} ticks={ticks} allowDecimals={false} tickFormatter={(v: number) => v.toFixed(0)} />
-      <Tooltip position={{ x: 80, y: 8 }} content={<OHLCTooltip />} />
-      <Bar dataKey="openClose" fill="#8884d8" shape={<Candlestick />} isAnimationActive={false}>
-        {data.map(({ timestamp }) => (
-          <Cell key={`cell-${timestamp}`} />
-        ))}
-      </Bar>
-      <Area type={"monotone"} dataKey="comparison" stroke="#FFD624" fillOpacity={0} isAnimationActive={false} />
-      {transactions.sell.map((t) => (
-        <ReferenceDot
-          key={t.timestamp + "_" + t.totalAmount}
-          x={t.timestamp}
-          y={t.averagePrice}
-          shape={<TransactionReferenceDot transaction={t} />}
+    <ResponsiveContainer width={"100%"} height={400}>
+      <ComposedChart data={data} margin={{ left: 0, right: 0 }}>
+        <XAxis dataKey="timestamp" tickFormatter={(v) => shortDateFormatter.format(v)} domain={[xMin, xMax]} />
+        <YAxis
+          domain={[yMin, yMax]}
+          ticks={ticks}
+          allowDecimals={false}
+          tickFormatter={(v: number) => v.toFixed(0)}
+          width={35}
+          mirror={true}
         />
-      ))}
-    </ComposedChart>
+        <Tooltip position={{ x: 40, y: 8 }} content={<OHLCTooltip />} />
+        <Bar dataKey="openClose" fill="#8884d8" shape={<Candlestick />} isAnimationActive={false}>
+          {data.map(({ timestamp }) => (
+            <Cell key={`cell-${timestamp}`} />
+          ))}
+        </Bar>
+        <Area type={"monotone"} dataKey="comparison" stroke="#FFD624" fillOpacity={0} isAnimationActive={false} />
+        {transactions.sell.map((t) => (
+          <ReferenceDot
+            key={t.timestamp + "_" + t.totalAmount}
+            x={t.timestamp}
+            y={t.averagePrice}
+            shape={<TransactionReferenceDot transaction={t} />}
+          />
+        ))}
+      </ComposedChart>
+    </ResponsiveContainer>
   );
 };

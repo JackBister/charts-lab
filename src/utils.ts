@@ -68,6 +68,9 @@ export const calculateAxisParameters = (data: MergedDataPoint[]) => {
   const yMax = Math.floor(maxClose / 5) * 5;
   let ticks = [];
   for (let i = yMin; i <= yMax; i += 40) {
+    if (i === yMin) {
+      continue;
+    }
     ticks.push(i);
   }
   const xMin = data[0].timestamp;

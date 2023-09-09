@@ -1,4 +1,4 @@
-import { Area, AreaChart, ReferenceDot, Tooltip, TooltipProps, XAxis, YAxis } from "recharts";
+import { Area, AreaChart, ReferenceDot, ResponsiveContainer, Tooltip, TooltipProps, XAxis, YAxis } from "recharts";
 import { MergedDataPoint, Transaction, calculateAxisParameters, longDateFormatter, shortDateFormatter } from "../utils";
 
 import * as transactions from "../assets/transactions.json";
@@ -55,33 +55,42 @@ const CustomTooltip = ({ payload, label }: TooltipProps<any, any>) => {
 export const SimpleChart = ({ data }: { data: MergedDataPoint[] }) => {
   const { xMin, xMax, yMin, yMax, ticks } = calculateAxisParameters(data);
   return (
-    <AreaChart width={800} height={400} data={data}>
-      <defs>
-        <linearGradient id="colorPv" x1="0" y1="0" x2="0" y2="1">
-          <stop offset="5%" stopColor="#82ca9d" stopOpacity={0.8} />
-          <stop offset="95%" stopColor="#82ca9d" stopOpacity={0} />
-        </linearGradient>
-      </defs>
-      <XAxis dataKey="timestamp" tickFormatter={(v) => shortDateFormatter.format(v)} domain={[xMin, xMax]} />
-      <YAxis domain={[yMin, yMax]} ticks={ticks} allowDecimals={false} tickFormatter={(v: number) => v.toFixed(0)} />
-      <Tooltip position={{ x: 80, y: 8 }} content={<CustomTooltip />} />
-      <Area
-        type="monotone"
-        dataKey="close"
-        stroke="#82ca9d"
-        fillOpacity={1}
-        fill="url(#colorPv)"
-        isAnimationActive={false}
-      />
-      <Area type={"monotone"} dataKey="comparison" stroke="#FFD624" fillOpacity={0} isAnimationActive={false} />
-      {transactions.sell.map((t) => (
-        <ReferenceDot
-          key={t.timestamp + "_" + t.totalAmount}
-          x={t.timestamp}
-          y={t.averagePrice}
-          shape={<TransactionReferenceDot transaction={t} />}
+    <ResponsiveContainer width={"100%"} height={400}>
+      <AreaChart data={data} margin={{ left: 0, right: 0 }}>
+        <defs>
+          <linearGradient id="colorPv" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="5%" stopColor="#82ca9d" stopOpacity={0.8} />
+            <stop offset="95%" stopColor="#82ca9d" stopOpacity={0} />
+          </linearGradient>
+        </defs>
+        <XAxis dataKey="timestamp" tickFormatter={(v) => shortDateFormatter.format(v)} domain={[xMin, xMax]} />
+        <YAxis
+          domain={[yMin, yMax]}
+          ticks={ticks}
+          allowDecimals={false}
+          tickFormatter={(v: number) => v.toFixed(0)}
+          width={35}
+          mirror={true}
         />
-      ))}
-    </AreaChart>
+        <Tooltip position={{ x: 40, y: 8 }} content={<CustomTooltip />} />
+        <Area
+          type="monotone"
+          dataKey="close"
+          stroke="#82ca9d"
+          fillOpacity={1}
+          fill="url(#colorPv)"
+          isAnimationActive={false}
+        />
+        <Area type={"monotone"} dataKey="comparison" stroke="#FFD624" fillOpacity={0} isAnimationActive={false} />
+        {transactions.sell.map((t) => (
+          <ReferenceDot
+            key={t.timestamp + "_" + t.totalAmount}
+            x={t.timestamp}
+            y={t.averagePrice}
+            shape={<TransactionReferenceDot transaction={t} />}
+          />
+        ))}
+      </AreaChart>
+    </ResponsiveContainer>
   );
 };

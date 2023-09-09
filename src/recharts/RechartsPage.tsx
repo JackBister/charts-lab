@@ -16,7 +16,7 @@ export const RechartsPage = () => {
     return () => clearInterval(interval);
   });
   return (
-    <div>
+    <div style={{ padding: "0 6px" }}>
       <Link to="/">Tillbaka</Link>
       <h1>Enkel graf</h1>
       <SimpleChart data={data} />
