@@ -5,7 +5,7 @@
 - Ett problem med flera av ramverken (ApexCharts, Recharts) är att när man uppdaterar serien med en ny punkt så återställs t.ex. inzoomning i grafen, som att state återställs helt och hållet. Antagligen finns ett bättre sätt att skicka in nya punkter än att göra en ny kopia av hela arrayen?
 - Antagligen av samma skäl så droppar alla ramverken frames när man lägger till nya punkter.
 
-## ApexCharts
+## [ApexCharts](https://apexcharts.com/)
 
 ### Pros
 
@@ -22,7 +22,7 @@
 
 - Lite svårt att få in köp- och säljpluppar i tooltippen. Försökte fejka det genom att göra en serie av transaktionerna men det blir inte helt lyckat pga. [denna bugg](https://github.com/apexcharts/apexcharts.js/issues/420)
 
-## Recharts
+## [Recharts](https://recharts.org/en-US/)
 
 ### Pros
 
@@ -32,7 +32,7 @@
 
 - Kräver lite mer customizations (t.ex. behöver candlesticks vara custom)
 
-## Highcharts
+## [Highcharts](https://www.highcharts.com/)
 
 ### Pros
 
@@ -45,7 +45,7 @@
 - Inte "React-igt", om man ska customiza något måste man göra det via strängar innehållande HTML eller CSS
 - Behövs mycket customization för att inte se "generiskt" ut
 
-## TradingView lightweight charts
+## [TradingView lightweight charts](https://tradingview.github.io/lightweight-charts/)
 
 Notera att TradingView har två andra typer av grafer med mer features som man behöver kontakta dem för att använda: https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/. Det här libbet känns mer som ett demo för deras andra produkter snarare än något som kan användas för mer avancerade case.
 
@@ -60,7 +60,7 @@ Notera att TradingView har två andra typer av grafer med mer features som man b
 - Inget inbyggt stöd för tooltip
 - Ingen officiell React-wrapper, nuvarande implementationen med ref orsakar en del buggar (bör gå att lösa)
 
-## CanvasJS
+## [CanvasJS](https://canvasjs.com/)
 
 ### Pros
 
@@ -75,7 +75,7 @@ Notera att TradingView har två andra typer av grafer med mer features som man b
 - Verkar saknas stöd för gradients på area-charts: https://canvasjs.com/forums/topic/gradients/
 - React-wrappern "@canvasjs/react-charts" känns som att den är av ganska låg kvalitet
 
-## amCharts
+## [amCharts](https://www.amcharts.com/)
 
 ### Pros
 
