@@ -63,6 +63,7 @@ export const CandlestickChart = ({ data }: { data: MergedDataPoint[] }) => {
     };
 
     const chart = new CanvasJS.Chart(chartContainerRef.current, options);
+    setChart(chart);
     chart.render();
   }, []);
 
