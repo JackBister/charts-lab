@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@amcharts/amcharts5": "^5.4.6",
-    "@canvasjs/react-charts": "^1.0.0",
+    "@canvasjs/charts": "^3.7.19",
     "apexcharts": "^3.42.0",
     "highcharts": "^11.1.0",
     "highcharts-react-official": "^3.2.1",

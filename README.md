@@ -73,6 +73,7 @@ Notera att TradingView har två andra typer av grafer med mer features som man b
 - Saknar TypeScript-definitioner? Blir rätt meckigt att jobb med utan autocomplete
 - Lite stökigt API. Liknar ApexCharts/Highcharts i att man behöver skicka in ett stort options-objekt men det känns mindre organiserat här
 - Verkar saknas stöd för gradients på area-charts: https://canvasjs.com/forums/topic/gradients/
+- React-wrappern "@canvasjs/react-charts" känns som att den är av ganska låg kvalitet
 
 ## amCharts
 
