@@ -10,36 +10,41 @@ import { TradingViewPage } from "./tradingview/TradingViewPage.tsx";
 import { CanvasJSPage } from "./canvasjs/CanvasJSPage.tsx";
 import { AmchartsPage } from "./amcharts/AmchartsPage.tsx";
 
-const router = createBrowserRouter([
+const router = createBrowserRouter(
+  [
+    {
+      path: "/",
+      element: <App />,
+    },
+    {
+      path: "/recharts",
+      element: <RechartsPage />,
+    },
+    {
+      path: "/apexcharts",
+      element: <ApexChartsPage />,
+    },
+    {
+      path: "/highcharts",
+      element: <HighchartsPage />,
+    },
+    {
+      path: "/tradingview",
+      element: <TradingViewPage />,
+    },
+    {
+      path: "/canvasjs",
+      element: <CanvasJSPage />,
+    },
+    {
+      path: "/amcharts",
+      element: <AmchartsPage />,
+    },
+  ],
   {
-    path: "/",
-    element: <App />,
-  },
-  {
-    path: "/recharts",
-    element: <RechartsPage />,
-  },
-  {
-    path: "/apexcharts",
-    element: <ApexChartsPage />,
-  },
-  {
-    path: "/highcharts",
-    element: <HighchartsPage />,
-  },
-  {
-    path: "/tradingview",
-    element: <TradingViewPage />,
-  },
-  {
-    path: "/canvasjs",
-    element: <CanvasJSPage />,
-  },
-  {
-    path: "/amcharts",
-    element: <AmchartsPage />,
-  },
-]);
+    basename: "/charts-lab",
+  }
+);
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
