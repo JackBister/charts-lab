@@ -1,0 +1,28 @@
+{
+  "buy": [],
+  "sell": [
+    {
+      "timestamp": 1668121200000,
+      "accountId": {
+        "id": 1234567
+      },
+      "totalVolume": 250.0,
+      "averagePrice": 249.1,
+      "totalAmount": 62182.0,
+      "totalAmountCurrency": "SEK",
+      "totalAmountRate": 1.0
+    },
+    {
+      "timestamp": 1693519200000,
+      "accountId": {
+        "id": 1234567
+      },
+      "transactionType": "SELL",
+      "totalVolume": 500.0,
+      "averagePrice": 212.6,
+      "totalAmount": 106271.0,
+      "totalAmountCurrency": "SEK",
+      "totalAmountRate": 1.0
+    }
+  ]
+}

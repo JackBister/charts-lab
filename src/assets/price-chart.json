@@ -1,0 +1,2020 @@
+{
+  "ohlc": [
+    {
+      "timestamp": 1662328800000,
+      "open": 170.0,
+      "close": 167.8,
+      "low": 166.65,
+      "high": 171.65,
+      "totalVolumeTraded": 253411
+    },
+    {
+      "timestamp": 1662415200000,
+      "open": 167.5,
+      "close": 170.15,
+      "low": 167.4,
+      "high": 173.0,
+      "totalVolumeTraded": 247971
+    },
+    {
+      "timestamp": 1662501600000,
+      "open": 167.8,
+      "close": 169.1,
+      "low": 163.0,
+      "high": 170.6,
+      "totalVolumeTraded": 320846
+    },
+    {
+      "timestamp": 1662588000000,
+      "open": 169.7,
+      "close": 171.0,
+      "low": 165.8,
+      "high": 172.1,
+      "totalVolumeTraded": 338412
+    },
+    {
+      "timestamp": 1662674400000,
+      "open": 171.65,
+      "close": 180.4,
+      "low": 171.65,
+      "high": 180.95,
+      "totalVolumeTraded": 354111
+    },
+    {
+      "timestamp": 1662933600000,
+      "open": 182.2,
+      "close": 186.75,
+      "low": 180.25,
+      "high": 187.4,
+      "totalVolumeTraded": 280765
+    },
+    {
+      "timestamp": 1663020000000,
+      "open": 186.75,
+      "close": 178.25,
+      "low": 178.25,
+      "high": 189.3,
+      "totalVolumeTraded": 449071
+    },
+    {
+      "timestamp": 1663106400000,
+      "open": 175.25,
+      "close": 176.8,
+      "low": 174.35,
+      "high": 181.3,
+      "totalVolumeTraded": 257809
+    },
+    {
+      "timestamp": 1663192800000,
+      "open": 176.8,
+      "close": 177.3,
+      "low": 176.0,
+      "high": 179.6,
+      "totalVolumeTraded": 177048
+    },
+    {
+      "timestamp": 1663279200000,
+      "open": 175.4,
+      "close": 172.7,
+      "low": 172.4,
+      "high": 176.95,
+      "totalVolumeTraded": 245358
+    },
+    {
+      "timestamp": 1663538400000,
+      "open": 172.0,
+      "close": 168.75,
+      "low": 166.7,
+      "high": 172.0,
+      "totalVolumeTraded": 167260
+    },
+    {
+      "timestamp": 1663624800000,
+      "open": 169.5,
+      "close": 161.05,
+      "low": 160.7,
+      "high": 170.55,
+      "totalVolumeTraded": 636942
+    },
+    {
+      "timestamp": 1663711200000,
+      "open": 160.0,
+      "close": 168.0,
+      "low": 157.8,
+      "high": 168.0,
+      "totalVolumeTraded": 690050
+    },
+    {
+      "timestamp": 1663797600000,
+      "open": 164.0,
+      "close": 163.0,
+      "low": 162.25,
+      "high": 164.8,
+      "totalVolumeTraded": 291236
+    },
+    {
+      "timestamp": 1663884000000,
+      "open": 163.4,
+      "close": 164.7,
+      "low": 160.75,
+      "high": 167.05,
+      "totalVolumeTraded": 404507
+    },
+    {
+      "timestamp": 1664143200000,
+      "open": 164.15,
+      "close": 167.35,
+      "low": 163.2,
+      "high": 172.45,
+      "totalVolumeTraded": 503031
+    },
+    {
+      "timestamp": 1664229600000,
+      "open": 169.75,
+      "close": 172.6,
+      "low": 169.55,
+      "high": 175.2,
+      "totalVolumeTraded": 383555
+    },
+    {
+      "timestamp": 1664316000000,
+      "open": 169.45,
+      "close": 169.3,
+      "low": 164.4,
+      "high": 172.6,
+      "totalVolumeTraded": 385588
+    },
+    {
+      "timestamp": 1664402400000,
+      "open": 169.5,
+      "close": 165.75,
+      "low": 163.65,
+      "high": 169.65,
+      "totalVolumeTraded": 417645
+    },
+    {
+      "timestamp": 1664488800000,
+      "open": 167.0,
+      "close": 170.95,
+      "low": 161.6,
+      "high": 171.5,
+      "totalVolumeTraded": 351088
+    },
+    {
+      "timestamp": 1664748000000,
+      "open": 168.7,
+      "close": 170.9,
+      "low": 161.5,
+      "high": 171.45,
+      "totalVolumeTraded": 300636
+    },
+    {
+      "timestamp": 1664834400000,
+      "open": 174.0,
+      "close": 185.35,
+      "low": 173.7,
+      "high": 185.35,
+      "totalVolumeTraded": 407624
+    },
+    {
+      "timestamp": 1664920800000,
+      "open": 181.3,
+      "close": 160.5,
+      "low": 160.5,
+      "high": 181.55,
+      "totalVolumeTraded": 1359224
+    },
+    {
+      "timestamp": 1665007200000,
+      "open": 162.45,
+      "close": 165.8,
+      "low": 161.1,
+      "high": 168.4,
+      "totalVolumeTraded": 671466
+    },
+    {
+      "timestamp": 1665093600000,
+      "open": 164.6,
+      "close": 156.45,
+      "low": 156.4,
+      "high": 166.1,
+      "totalVolumeTraded": 437036
+    },
+    {
+      "timestamp": 1665352800000,
+      "open": 155.0,
+      "close": 159.85,
+      "low": 153.8,
+      "high": 164.0,
+      "totalVolumeTraded": 390078
+    },
+    {
+      "timestamp": 1665439200000,
+      "open": 157.6,
+      "close": 162.35,
+      "low": 156.25,
+      "high": 163.0,
+      "totalVolumeTraded": 432973
+    },
+    {
+      "timestamp": 1665525600000,
+      "open": 153.3,
+      "close": 152.4,
+      "low": 151.4,
+      "high": 157.8,
+      "totalVolumeTraded": 1033740
+    },
+    {
+      "timestamp": 1665612000000,
+      "open": 151.0,
+      "close": 154.55,
+      "low": 145.1,
+      "high": 155.15,
+      "totalVolumeTraded": 442410
+    },
+    {
+      "timestamp": 1665698400000,
+      "open": 159.2,
+      "close": 155.2,
+      "low": 154.6,
+      "high": 159.75,
+      "totalVolumeTraded": 323393
+    },
+    {
+      "timestamp": 1665957600000,
+      "open": 155.2,
+      "close": 157.55,
+      "low": 152.5,
+      "high": 158.9,
+      "totalVolumeTraded": 462675
+    },
+    {
+      "timestamp": 1666044000000,
+      "open": 175.0,
+      "close": 176.5,
+      "low": 171.35,
+      "high": 185.25,
+      "totalVolumeTraded": 1695836
+    },
+    {
+      "timestamp": 1666130400000,
+      "open": 180.4,
+      "close": 186.7,
+      "low": 177.9,
+      "high": 189.6,
+      "totalVolumeTraded": 1194956
+    },
+    {
+      "timestamp": 1666216800000,
+      "open": 186.15,
+      "close": 190.5,
+      "low": 183.3,
+      "high": 192.95,
+      "totalVolumeTraded": 854470
+    },
+    {
+      "timestamp": 1666303200000,
+      "open": 188.5,
+      "close": 190.1,
+      "low": 185.55,
+      "high": 191.9,
+      "totalVolumeTraded": 484362
+    },
+    {
+      "timestamp": 1666562400000,
+      "open": 191.85,
+      "close": 193.65,
+      "low": 187.5,
+      "high": 196.35,
+      "totalVolumeTraded": 511204
+    },
+    {
+      "timestamp": 1666648800000,
+      "open": 194.45,
+      "close": 205.0,
+      "low": 193.7,
+      "high": 205.0,
+      "totalVolumeTraded": 572441
+    },
+    {
+      "timestamp": 1666735200000,
+      "open": 205.0,
+      "close": 209.1,
+      "low": 202.0,
+      "high": 209.1,
+      "totalVolumeTraded": 494783
+    },
+    {
+      "timestamp": 1666821600000,
+      "open": 208.5,
+      "close": 220.5,
+      "low": 207.0,
+      "high": 222.6,
+      "totalVolumeTraded": 1605024
+    },
+    {
+      "timestamp": 1666908000000,
+      "open": 217.4,
+      "close": 224.1,
+      "low": 215.2,
+      "high": 224.6,
+      "totalVolumeTraded": 1078330
+    },
+    {
+      "timestamp": 1667170800000,
+      "open": 224.7,
+      "close": 220.5,
+      "low": 218.5,
+      "high": 226.9,
+      "totalVolumeTraded": 716630
+    },
+    {
+      "timestamp": 1667257200000,
+      "open": 221.5,
+      "close": 223.4,
+      "low": 219.9,
+      "high": 229.4,
+      "totalVolumeTraded": 588069
+    },
+    {
+      "timestamp": 1667343600000,
+      "open": 222.2,
+      "close": 215.4,
+      "low": 211.9,
+      "high": 222.4,
+      "totalVolumeTraded": 704034
+    },
+    {
+      "timestamp": 1667430000000,
+      "open": 212.0,
+      "close": 204.6,
+      "low": 203.4,
+      "high": 212.0,
+      "totalVolumeTraded": 720195
+    },
+    {
+      "timestamp": 1667516400000,
+      "open": 205.1,
+      "close": 210.2,
+      "low": 202.4,
+      "high": 210.8,
+      "totalVolumeTraded": 287520
+    },
+    {
+      "timestamp": 1667775600000,
+      "open": 210.2,
+      "close": 210.0,
+      "low": 205.3,
+      "high": 210.6,
+      "totalVolumeTraded": 441697
+    },
+    {
+      "timestamp": 1667862000000,
+      "open": 210.0,
+      "close": 216.4,
+      "low": 208.4,
+      "high": 216.6,
+      "totalVolumeTraded": 430068
+    },
+    {
+      "timestamp": 1667948400000,
+      "open": 215.0,
+      "close": 217.3,
+      "low": 212.0,
+      "high": 218.5,
+      "totalVolumeTraded": 514280
+    },
+    {
+      "timestamp": 1668034800000,
+      "open": 215.9,
+      "close": 237.0,
+      "low": 213.2,
+      "high": 237.0,
+      "totalVolumeTraded": 757790
+    },
+    {
+      "timestamp": 1668121200000,
+      "open": 242.1,
+      "close": 248.0,
+      "low": 240.3,
+      "high": 252.8,
+      "totalVolumeTraded": 909692
+    },
+    {
+      "timestamp": 1668380400000,
+      "open": 248.0,
+      "close": 243.9,
+      "low": 243.3,
+      "high": 250.1,
+      "totalVolumeTraded": 613458
+    },
+    {
+      "timestamp": 1668466800000,
+      "open": 245.1,
+      "close": 239.6,
+      "low": 238.4,
+      "high": 245.1,
+      "totalVolumeTraded": 575310
+    },
+    {
+      "timestamp": 1668553200000,
+      "open": 239.5,
+      "close": 233.4,
+      "low": 230.8,
+      "high": 241.0,
+      "totalVolumeTraded": 288128
+    },
+    {
+      "timestamp": 1668639600000,
+      "open": 233.2,
+      "close": 225.2,
+      "low": 224.5,
+      "high": 234.9,
+      "totalVolumeTraded": 423811
+    },
+    {
+      "timestamp": 1668726000000,
+      "open": 225.6,
+      "close": 228.2,
+      "low": 223.4,
+      "high": 230.7,
+      "totalVolumeTraded": 357253
+    },
+    {
+      "timestamp": 1668985200000,
+      "open": 227.0,
+      "close": 227.9,
+      "low": 224.9,
+      "high": 231.0,
+      "totalVolumeTraded": 275478
+    },
+    {
+      "timestamp": 1669071600000,
+      "open": 226.0,
+      "close": 226.9,
+      "low": 224.1,
+      "high": 228.4,
+      "totalVolumeTraded": 310695
+    },
+    {
+      "timestamp": 1669158000000,
+      "open": 227.9,
+      "close": 234.1,
+      "low": 226.1,
+      "high": 234.7,
+      "totalVolumeTraded": 295725
+    },
+    {
+      "timestamp": 1669244400000,
+      "open": 234.1,
+      "close": 235.4,
+      "low": 232.8,
+      "high": 238.0,
+      "totalVolumeTraded": 205165
+    },
+    {
+      "timestamp": 1669330800000,
+      "open": 235.4,
+      "close": 228.0,
+      "low": 227.5,
+      "high": 235.4,
+      "totalVolumeTraded": 371817
+    },
+    {
+      "timestamp": 1669590000000,
+      "open": 226.7,
+      "close": 224.0,
+      "low": 224.0,
+      "high": 230.6,
+      "totalVolumeTraded": 349460
+    },
+    {
+      "timestamp": 1669676400000,
+      "open": 225.1,
+      "close": 221.5,
+      "low": 220.0,
+      "high": 225.4,
+      "totalVolumeTraded": 363755
+    },
+    {
+      "timestamp": 1669762800000,
+      "open": 217.9,
+      "close": 210.0,
+      "low": 203.4,
+      "high": 217.9,
+      "totalVolumeTraded": 2203213
+    },
+    {
+      "timestamp": 1669849200000,
+      "open": 217.0,
+      "close": 216.0,
+      "low": 210.9,
+      "high": 219.4,
+      "totalVolumeTraded": 960694
+    },
+    {
+      "timestamp": 1669935600000,
+      "open": 214.8,
+      "close": 219.0,
+      "low": 212.2,
+      "high": 222.2,
+      "totalVolumeTraded": 456990
+    },
+    {
+      "timestamp": 1670194800000,
+      "open": 217.0,
+      "close": 214.3,
+      "low": 209.0,
+      "high": 217.2,
+      "totalVolumeTraded": 822235
+    },
+    {
+      "timestamp": 1670281200000,
+      "open": 214.3,
+      "close": 210.8,
+      "low": 209.7,
+      "high": 217.9,
+      "totalVolumeTraded": 397120
+    },
+    {
+      "timestamp": 1670367600000,
+      "open": 210.2,
+      "close": 206.8,
+      "low": 205.6,
+      "high": 212.4,
+      "totalVolumeTraded": 474066
+    },
+    {
+      "timestamp": 1670454000000,
+      "open": 207.5,
+      "close": 212.1,
+      "low": 207.3,
+      "high": 213.6,
+      "totalVolumeTraded": 235033
+    },
+    {
+      "timestamp": 1670540400000,
+      "open": 213.6,
+      "close": 215.9,
+      "low": 211.2,
+      "high": 216.7,
+      "totalVolumeTraded": 339254
+    },
+    {
+      "timestamp": 1670799600000,
+      "open": 214.2,
+      "close": 222.9,
+      "low": 214.0,
+      "high": 223.8,
+      "totalVolumeTraded": 404050
+    },
+    {
+      "timestamp": 1670886000000,
+      "open": 224.0,
+      "close": 229.0,
+      "low": 223.1,
+      "high": 236.8,
+      "totalVolumeTraded": 952606
+    },
+    {
+      "timestamp": 1670972400000,
+      "open": 228.7,
+      "close": 237.3,
+      "low": 227.9,
+      "high": 238.6,
+      "totalVolumeTraded": 643735
+    },
+    {
+      "timestamp": 1671058800000,
+      "open": 233.2,
+      "close": 234.0,
+      "low": 230.6,
+      "high": 239.9,
+      "totalVolumeTraded": 637339
+    },
+    {
+      "timestamp": 1671145200000,
+      "open": 233.6,
+      "close": 227.3,
+      "low": 225.4,
+      "high": 234.1,
+      "totalVolumeTraded": 446566
+    },
+    {
+      "timestamp": 1671404400000,
+      "open": 230.0,
+      "close": 226.4,
+      "low": 224.8,
+      "high": 230.8,
+      "totalVolumeTraded": 275516
+    },
+    {
+      "timestamp": 1671490800000,
+      "open": 224.0,
+      "close": 224.6,
+      "low": 221.0,
+      "high": 226.3,
+      "totalVolumeTraded": 210287
+    },
+    {
+      "timestamp": 1671577200000,
+      "open": 227.0,
+      "close": 229.1,
+      "low": 226.0,
+      "high": 230.3,
+      "totalVolumeTraded": 289928
+    },
+    {
+      "timestamp": 1671663600000,
+      "open": 229.1,
+      "close": 225.3,
+      "low": 224.3,
+      "high": 231.0,
+      "totalVolumeTraded": 188102
+    },
+    {
+      "timestamp": 1671750000000,
+      "open": 226.0,
+      "close": 230.4,
+      "low": 225.9,
+      "high": 232.5,
+      "totalVolumeTraded": 215514
+    },
+    {
+      "timestamp": 1672095600000,
+      "open": 231.0,
+      "close": 224.3,
+      "low": 223.5,
+      "high": 232.8,
+      "totalVolumeTraded": 240546
+    },
+    {
+      "timestamp": 1672182000000,
+      "open": 225.0,
+      "close": 222.2,
+      "low": 220.5,
+      "high": 225.1,
+      "totalVolumeTraded": 171304
+    },
+    {
+      "timestamp": 1672268400000,
+      "open": 222.0,
+      "close": 228.7,
+      "low": 220.4,
+      "high": 228.7,
+      "totalVolumeTraded": 229410
+    },
+    {
+      "timestamp": 1672354800000,
+      "open": 227.0,
+      "close": 223.6,
+      "low": 223.6,
+      "high": 229.5,
+      "totalVolumeTraded": 171616
+    },
+    {
+      "timestamp": 1672614000000,
+      "open": 226.0,
+      "close": 225.1,
+      "low": 221.2,
+      "high": 226.3,
+      "totalVolumeTraded": 217706
+    },
+    {
+      "timestamp": 1672700400000,
+      "open": 225.1,
+      "close": 221.2,
+      "low": 221.1,
+      "high": 228.7,
+      "totalVolumeTraded": 414928
+    },
+    {
+      "timestamp": 1672786800000,
+      "open": 219.7,
+      "close": 205.0,
+      "low": 204.0,
+      "high": 219.7,
+      "totalVolumeTraded": 1507457
+    },
+    {
+      "timestamp": 1672873200000,
+      "open": 204.0,
+      "close": 202.8,
+      "low": 201.0,
+      "high": 205.9,
+      "totalVolumeTraded": 564327
+    },
+    {
+      "timestamp": 1673218800000,
+      "open": 202.1,
+      "close": 207.7,
+      "low": 197.5,
+      "high": 210.9,
+      "totalVolumeTraded": 1167152
+    },
+    {
+      "timestamp": 1673305200000,
+      "open": 206.6,
+      "close": 211.6,
+      "low": 205.4,
+      "high": 214.2,
+      "totalVolumeTraded": 567529
+    },
+    {
+      "timestamp": 1673391600000,
+      "open": 209.7,
+      "close": 217.0,
+      "low": 207.0,
+      "high": 217.4,
+      "totalVolumeTraded": 678109
+    },
+    {
+      "timestamp": 1673478000000,
+      "open": 217.1,
+      "close": 216.8,
+      "low": 211.9,
+      "high": 219.6,
+      "totalVolumeTraded": 577939
+    },
+    {
+      "timestamp": 1673564400000,
+      "open": 214.0,
+      "close": 213.0,
+      "low": 212.1,
+      "high": 220.3,
+      "totalVolumeTraded": 738377
+    },
+    {
+      "timestamp": 1673823600000,
+      "open": 214.6,
+      "close": 217.3,
+      "low": 214.1,
+      "high": 218.3,
+      "totalVolumeTraded": 270766
+    },
+    {
+      "timestamp": 1673910000000,
+      "open": 216.4,
+      "close": 215.4,
+      "low": 211.7,
+      "high": 216.4,
+      "totalVolumeTraded": 385991
+    },
+    {
+      "timestamp": 1673996400000,
+      "open": 215.4,
+      "close": 217.1,
+      "low": 211.7,
+      "high": 220.9,
+      "totalVolumeTraded": 912007
+    },
+    {
+      "timestamp": 1674082800000,
+      "open": 214.3,
+      "close": 211.2,
+      "low": 209.2,
+      "high": 215.4,
+      "totalVolumeTraded": 596279
+    },
+    {
+      "timestamp": 1674169200000,
+      "open": 220.4,
+      "close": 227.0,
+      "low": 220.3,
+      "high": 234.7,
+      "totalVolumeTraded": 1596761
+    },
+    {
+      "timestamp": 1674428400000,
+      "open": 227.0,
+      "close": 232.1,
+      "low": 223.7,
+      "high": 234.4,
+      "totalVolumeTraded": 729313
+    },
+    {
+      "timestamp": 1674514800000,
+      "open": 232.8,
+      "close": 240.1,
+      "low": 231.8,
+      "high": 240.8,
+      "totalVolumeTraded": 536704
+    },
+    {
+      "timestamp": 1674601200000,
+      "open": 240.5,
+      "close": 238.6,
+      "low": 234.2,
+      "high": 241.0,
+      "totalVolumeTraded": 337851
+    },
+    {
+      "timestamp": 1674687600000,
+      "open": 240.0,
+      "close": 241.3,
+      "low": 235.2,
+      "high": 244.6,
+      "totalVolumeTraded": 290491
+    },
+    {
+      "timestamp": 1674774000000,
+      "open": 242.0,
+      "close": 248.8,
+      "low": 241.0,
+      "high": 248.8,
+      "totalVolumeTraded": 316783
+    },
+    {
+      "timestamp": 1675033200000,
+      "open": 247.2,
+      "close": 239.2,
+      "low": 238.7,
+      "high": 247.2,
+      "totalVolumeTraded": 364396
+    },
+    {
+      "timestamp": 1675119600000,
+      "open": 239.2,
+      "close": 240.0,
+      "low": 237.5,
+      "high": 243.6,
+      "totalVolumeTraded": 347869
+    },
+    {
+      "timestamp": 1675206000000,
+      "open": 241.0,
+      "close": 251.8,
+      "low": 241.0,
+      "high": 252.6,
+      "totalVolumeTraded": 594412
+    },
+    {
+      "timestamp": 1675292400000,
+      "open": 253.8,
+      "close": 264.2,
+      "low": 253.8,
+      "high": 266.2,
+      "totalVolumeTraded": 749298
+    },
+    {
+      "timestamp": 1675378800000,
+      "open": 262.5,
+      "close": 269.1,
+      "low": 260.4,
+      "high": 270.8,
+      "totalVolumeTraded": 562197
+    },
+    {
+      "timestamp": 1675638000000,
+      "open": 267.2,
+      "close": 261.7,
+      "low": 258.2,
+      "high": 267.4,
+      "totalVolumeTraded": 244569
+    },
+    {
+      "timestamp": 1675724400000,
+      "open": 262.1,
+      "close": 263.2,
+      "low": 257.1,
+      "high": 263.5,
+      "totalVolumeTraded": 266788
+    },
+    {
+      "timestamp": 1675810800000,
+      "open": 265.9,
+      "close": 262.4,
+      "low": 261.2,
+      "high": 268.0,
+      "totalVolumeTraded": 321891
+    },
+    {
+      "timestamp": 1675897200000,
+      "open": 263.3,
+      "close": 261.5,
+      "low": 259.0,
+      "high": 264.6,
+      "totalVolumeTraded": 276393
+    },
+    {
+      "timestamp": 1675983600000,
+      "open": 257.9,
+      "close": 255.0,
+      "low": 252.6,
+      "high": 259.9,
+      "totalVolumeTraded": 256737
+    },
+    {
+      "timestamp": 1676242800000,
+      "open": 255.5,
+      "close": 261.9,
+      "low": 254.6,
+      "high": 263.9,
+      "totalVolumeTraded": 206558
+    },
+    {
+      "timestamp": 1676329200000,
+      "open": 262.0,
+      "close": 264.0,
+      "low": 260.7,
+      "high": 267.9,
+      "totalVolumeTraded": 233479
+    },
+    {
+      "timestamp": 1676415600000,
+      "open": 262.7,
+      "close": 267.9,
+      "low": 261.2,
+      "high": 268.5,
+      "totalVolumeTraded": 327255
+    },
+    {
+      "timestamp": 1676502000000,
+      "open": 268.5,
+      "close": 272.7,
+      "low": 268.5,
+      "high": 274.6,
+      "totalVolumeTraded": 331062
+    },
+    {
+      "timestamp": 1676588400000,
+      "open": 266.0,
+      "close": 270.8,
+      "low": 264.1,
+      "high": 272.1,
+      "totalVolumeTraded": 285846
+    },
+    {
+      "timestamp": 1676847600000,
+      "open": 271.7,
+      "close": 270.4,
+      "low": 268.5,
+      "high": 274.6,
+      "totalVolumeTraded": 170254
+    },
+    {
+      "timestamp": 1676934000000,
+      "open": 269.7,
+      "close": 270.3,
+      "low": 268.2,
+      "high": 273.4,
+      "totalVolumeTraded": 227028
+    },
+    {
+      "timestamp": 1677020400000,
+      "open": 272.0,
+      "close": 271.3,
+      "low": 267.5,
+      "high": 278.2,
+      "totalVolumeTraded": 412897
+    },
+    {
+      "timestamp": 1677106800000,
+      "open": 272.0,
+      "close": 274.6,
+      "low": 271.9,
+      "high": 279.5,
+      "totalVolumeTraded": 387918
+    },
+    {
+      "timestamp": 1677193200000,
+      "open": 274.7,
+      "close": 268.8,
+      "low": 266.4,
+      "high": 276.5,
+      "totalVolumeTraded": 314439
+    },
+    {
+      "timestamp": 1677452400000,
+      "open": 269.0,
+      "close": 272.7,
+      "low": 268.9,
+      "high": 275.8,
+      "totalVolumeTraded": 224570
+    },
+    {
+      "timestamp": 1677538800000,
+      "open": 272.4,
+      "close": 277.7,
+      "low": 270.9,
+      "high": 278.8,
+      "totalVolumeTraded": 302071
+    },
+    {
+      "timestamp": 1677625200000,
+      "open": 277.4,
+      "close": 277.6,
+      "low": 274.7,
+      "high": 280.4,
+      "totalVolumeTraded": 353191
+    },
+    {
+      "timestamp": 1677711600000,
+      "open": 274.6,
+      "close": 274.2,
+      "low": 271.4,
+      "high": 280.0,
+      "totalVolumeTraded": 364775
+    },
+    {
+      "timestamp": 1677798000000,
+      "open": 273.9,
+      "close": 280.4,
+      "low": 273.8,
+      "high": 281.2,
+      "totalVolumeTraded": 298643
+    },
+    {
+      "timestamp": 1678057200000,
+      "open": 282.2,
+      "close": 279.8,
+      "low": 278.6,
+      "high": 284.3,
+      "totalVolumeTraded": 198940
+    },
+    {
+      "timestamp": 1678143600000,
+      "open": 279.5,
+      "close": 274.2,
+      "low": 271.8,
+      "high": 279.7,
+      "totalVolumeTraded": 286335
+    },
+    {
+      "timestamp": 1678230000000,
+      "open": 272.0,
+      "close": 274.3,
+      "low": 270.0,
+      "high": 275.1,
+      "totalVolumeTraded": 222630
+    },
+    {
+      "timestamp": 1678316400000,
+      "open": 273.4,
+      "close": 275.8,
+      "low": 271.9,
+      "high": 279.0,
+      "totalVolumeTraded": 291987
+    },
+    {
+      "timestamp": 1678402800000,
+      "open": 269.0,
+      "close": 256.1,
+      "low": 253.1,
+      "high": 269.0,
+      "totalVolumeTraded": 571507
+    },
+    {
+      "timestamp": 1678662000000,
+      "open": 257.0,
+      "close": 248.6,
+      "low": 235.5,
+      "high": 259.4,
+      "totalVolumeTraded": 1011209
+    },
+    {
+      "timestamp": 1678748400000,
+      "open": 246.0,
+      "close": 250.2,
+      "low": 239.3,
+      "high": 254.9,
+      "totalVolumeTraded": 600569
+    },
+    {
+      "timestamp": 1678834800000,
+      "open": 250.4,
+      "close": 239.2,
+      "low": 236.4,
+      "high": 250.7,
+      "totalVolumeTraded": 491154
+    },
+    {
+      "timestamp": 1678921200000,
+      "open": 245.0,
+      "close": 246.6,
+      "low": 235.5,
+      "high": 248.7,
+      "totalVolumeTraded": 360080
+    },
+    {
+      "timestamp": 1679007600000,
+      "open": 248.6,
+      "close": 236.3,
+      "low": 232.1,
+      "high": 250.7,
+      "totalVolumeTraded": 576396
+    },
+    {
+      "timestamp": 1679266800000,
+      "open": 232.9,
+      "close": 245.6,
+      "low": 228.3,
+      "high": 250.0,
+      "totalVolumeTraded": 472370
+    },
+    {
+      "timestamp": 1679353200000,
+      "open": 248.1,
+      "close": 256.1,
+      "low": 248.1,
+      "high": 256.7,
+      "totalVolumeTraded": 396929
+    },
+    {
+      "timestamp": 1679439600000,
+      "open": 256.1,
+      "close": 255.1,
+      "low": 250.7,
+      "high": 257.3,
+      "totalVolumeTraded": 279824
+    },
+    {
+      "timestamp": 1679526000000,
+      "open": 252.4,
+      "close": 252.1,
+      "low": 247.6,
+      "high": 254.7,
+      "totalVolumeTraded": 199709
+    },
+    {
+      "timestamp": 1679612400000,
+      "open": 250.0,
+      "close": 242.9,
+      "low": 237.7,
+      "high": 250.0,
+      "totalVolumeTraded": 387322
+    },
+    {
+      "timestamp": 1679868000000,
+      "open": 248.0,
+      "close": 243.8,
+      "low": 243.1,
+      "high": 251.4,
+      "totalVolumeTraded": 300012
+    },
+    {
+      "timestamp": 1679954400000,
+      "open": 247.4,
+      "close": 241.2,
+      "low": 239.5,
+      "high": 248.4,
+      "totalVolumeTraded": 259941
+    },
+    {
+      "timestamp": 1680040800000,
+      "open": 243.4,
+      "close": 240.0,
+      "low": 236.8,
+      "high": 244.8,
+      "totalVolumeTraded": 493879
+    },
+    {
+      "timestamp": 1680127200000,
+      "open": 242.7,
+      "close": 246.8,
+      "low": 242.7,
+      "high": 247.8,
+      "totalVolumeTraded": 391853
+    },
+    {
+      "timestamp": 1680213600000,
+      "open": 240.0,
+      "close": 243.0,
+      "low": 238.9,
+      "high": 244.0,
+      "totalVolumeTraded": 295285
+    },
+    {
+      "timestamp": 1680472800000,
+      "open": 243.2,
+      "close": 242.2,
+      "low": 240.4,
+      "high": 244.8,
+      "totalVolumeTraded": 298648
+    },
+    {
+      "timestamp": 1680559200000,
+      "open": 244.0,
+      "close": 252.9,
+      "low": 242.3,
+      "high": 254.2,
+      "totalVolumeTraded": 402534
+    },
+    {
+      "timestamp": 1680645600000,
+      "open": 245.0,
+      "close": 238.5,
+      "low": 235.8,
+      "high": 246.0,
+      "totalVolumeTraded": 759630
+    },
+    {
+      "timestamp": 1680732000000,
+      "open": 241.7,
+      "close": 243.2,
+      "low": 241.7,
+      "high": 249.15,
+      "totalVolumeTraded": 264522
+    },
+    {
+      "timestamp": 1681164000000,
+      "open": 247.9,
+      "close": 248.8,
+      "low": 244.2,
+      "high": 249.0,
+      "totalVolumeTraded": 375718
+    },
+    {
+      "timestamp": 1681250400000,
+      "open": 251.2,
+      "close": 250.2,
+      "low": 246.5,
+      "high": 255.0,
+      "totalVolumeTraded": 331408
+    },
+    {
+      "timestamp": 1681336800000,
+      "open": 250.3,
+      "close": 248.4,
+      "low": 245.5,
+      "high": 253.8,
+      "totalVolumeTraded": 214073
+    },
+    {
+      "timestamp": 1681423200000,
+      "open": 250.3,
+      "close": 251.4,
+      "low": 250.2,
+      "high": 255.6,
+      "totalVolumeTraded": 287333
+    },
+    {
+      "timestamp": 1681682400000,
+      "open": 251.4,
+      "close": 245.4,
+      "low": 244.0,
+      "high": 255.6,
+      "totalVolumeTraded": 627372
+    },
+    {
+      "timestamp": 1681768800000,
+      "open": 246.6,
+      "close": 246.0,
+      "low": 243.3,
+      "high": 248.2,
+      "totalVolumeTraded": 249332
+    },
+    {
+      "timestamp": 1681855200000,
+      "open": 245.6,
+      "close": 242.9,
+      "low": 242.1,
+      "high": 247.6,
+      "totalVolumeTraded": 257834
+    },
+    {
+      "timestamp": 1681941600000,
+      "open": 242.6,
+      "close": 233.3,
+      "low": 228.7,
+      "high": 242.6,
+      "totalVolumeTraded": 620218
+    },
+    {
+      "timestamp": 1682028000000,
+      "open": 233.3,
+      "close": 234.6,
+      "low": 231.0,
+      "high": 235.1,
+      "totalVolumeTraded": 381378
+    },
+    {
+      "timestamp": 1682287200000,
+      "open": 215.9,
+      "close": 212.5,
+      "low": 211.5,
+      "high": 223.5,
+      "totalVolumeTraded": 2672435
+    },
+    {
+      "timestamp": 1682373600000,
+      "open": 212.5,
+      "close": 218.4,
+      "low": 207.5,
+      "high": 219.1,
+      "totalVolumeTraded": 1049145
+    },
+    {
+      "timestamp": 1682460000000,
+      "open": 214.3,
+      "close": 215.8,
+      "low": 210.3,
+      "high": 216.4,
+      "totalVolumeTraded": 664681
+    },
+    {
+      "timestamp": 1682546400000,
+      "open": 215.8,
+      "close": 216.3,
+      "low": 215.0,
+      "high": 221.2,
+      "totalVolumeTraded": 516582
+    },
+    {
+      "timestamp": 1682632800000,
+      "open": 216.9,
+      "close": 217.7,
+      "low": 214.95,
+      "high": 219.7,
+      "totalVolumeTraded": 531138
+    },
+    {
+      "timestamp": 1682978400000,
+      "open": 217.8,
+      "close": 209.0,
+      "low": 208.8,
+      "high": 218.0,
+      "totalVolumeTraded": 548804
+    },
+    {
+      "timestamp": 1683064800000,
+      "open": 210.8,
+      "close": 208.9,
+      "low": 206.6,
+      "high": 212.1,
+      "totalVolumeTraded": 396342
+    },
+    {
+      "timestamp": 1683151200000,
+      "open": 208.9,
+      "close": 208.0,
+      "low": 206.3,
+      "high": 210.4,
+      "totalVolumeTraded": 291325
+    },
+    {
+      "timestamp": 1683237600000,
+      "open": 209.8,
+      "close": 215.1,
+      "low": 208.6,
+      "high": 215.8,
+      "totalVolumeTraded": 239524
+    },
+    {
+      "timestamp": 1683496800000,
+      "open": 216.5,
+      "close": 218.3,
+      "low": 215.3,
+      "high": 218.3,
+      "totalVolumeTraded": 358154
+    },
+    {
+      "timestamp": 1683583200000,
+      "open": 218.0,
+      "close": 216.0,
+      "low": 213.0,
+      "high": 218.0,
+      "totalVolumeTraded": 404132
+    },
+    {
+      "timestamp": 1683669600000,
+      "open": 217.0,
+      "close": 216.3,
+      "low": 213.6,
+      "high": 219.2,
+      "totalVolumeTraded": 243554
+    },
+    {
+      "timestamp": 1683756000000,
+      "open": 218.0,
+      "close": 221.0,
+      "low": 218.0,
+      "high": 223.3,
+      "totalVolumeTraded": 278972
+    },
+    {
+      "timestamp": 1683842400000,
+      "open": 221.0,
+      "close": 224.0,
+      "low": 220.8,
+      "high": 227.4,
+      "totalVolumeTraded": 302782
+    },
+    {
+      "timestamp": 1684101600000,
+      "open": 222.0,
+      "close": 223.0,
+      "low": 218.4,
+      "high": 223.3,
+      "totalVolumeTraded": 317187
+    },
+    {
+      "timestamp": 1684188000000,
+      "open": 221.4,
+      "close": 224.8,
+      "low": 219.8,
+      "high": 225.0,
+      "totalVolumeTraded": 236329
+    },
+    {
+      "timestamp": 1684274400000,
+      "open": 222.5,
+      "close": 219.4,
+      "low": 218.2,
+      "high": 222.7,
+      "totalVolumeTraded": 149032
+    },
+    {
+      "timestamp": 1684447200000,
+      "open": 223.4,
+      "close": 224.1,
+      "low": 222.4,
+      "high": 227.4,
+      "totalVolumeTraded": 263722
+    },
+    {
+      "timestamp": 1684706400000,
+      "open": 224.1,
+      "close": 227.0,
+      "low": 222.8,
+      "high": 227.2,
+      "totalVolumeTraded": 198277
+    },
+    {
+      "timestamp": 1684792800000,
+      "open": 225.0,
+      "close": 227.3,
+      "low": 224.5,
+      "high": 228.9,
+      "totalVolumeTraded": 162371
+    },
+    {
+      "timestamp": 1684879200000,
+      "open": 223.2,
+      "close": 221.8,
+      "low": 217.5,
+      "high": 223.8,
+      "totalVolumeTraded": 401501
+    },
+    {
+      "timestamp": 1684965600000,
+      "open": 221.8,
+      "close": 222.2,
+      "low": 219.8,
+      "high": 224.8,
+      "totalVolumeTraded": 226360
+    },
+    {
+      "timestamp": 1685052000000,
+      "open": 222.3,
+      "close": 225.4,
+      "low": 219.8,
+      "high": 226.4,
+      "totalVolumeTraded": 215051
+    },
+    {
+      "timestamp": 1685311200000,
+      "open": 227.3,
+      "close": 227.7,
+      "low": 225.1,
+      "high": 229.3,
+      "totalVolumeTraded": 209768
+    },
+    {
+      "timestamp": 1685397600000,
+      "open": 228.2,
+      "close": 231.2,
+      "low": 227.4,
+      "high": 231.6,
+      "totalVolumeTraded": 323111
+    },
+    {
+      "timestamp": 1685484000000,
+      "open": 229.4,
+      "close": 224.0,
+      "low": 219.8,
+      "high": 229.4,
+      "totalVolumeTraded": 759820
+    },
+    {
+      "timestamp": 1685570400000,
+      "open": 227.4,
+      "close": 228.6,
+      "low": 225.0,
+      "high": 230.1,
+      "totalVolumeTraded": 405421
+    },
+    {
+      "timestamp": 1685656800000,
+      "open": 230.7,
+      "close": 232.8,
+      "low": 228.5,
+      "high": 232.9,
+      "totalVolumeTraded": 300698
+    },
+    {
+      "timestamp": 1685916000000,
+      "open": 232.8,
+      "close": 228.0,
+      "low": 228.0,
+      "high": 234.5,
+      "totalVolumeTraded": 302297
+    },
+    {
+      "timestamp": 1686088800000,
+      "open": 228.4,
+      "close": 231.8,
+      "low": 225.1,
+      "high": 233.5,
+      "totalVolumeTraded": 319105
+    },
+    {
+      "timestamp": 1686175200000,
+      "open": 230.0,
+      "close": 227.8,
+      "low": 226.8,
+      "high": 230.6,
+      "totalVolumeTraded": 218864
+    },
+    {
+      "timestamp": 1686261600000,
+      "open": 220.0,
+      "close": 221.3,
+      "low": 214.7,
+      "high": 222.6,
+      "totalVolumeTraded": 807975
+    },
+    {
+      "timestamp": 1686520800000,
+      "open": 221.3,
+      "close": 222.1,
+      "low": 220.0,
+      "high": 223.3,
+      "totalVolumeTraded": 236778
+    },
+    {
+      "timestamp": 1686607200000,
+      "open": 223.1,
+      "close": 219.5,
+      "low": 219.0,
+      "high": 223.3,
+      "totalVolumeTraded": 294162
+    },
+    {
+      "timestamp": 1686693600000,
+      "open": 219.0,
+      "close": 218.3,
+      "low": 216.4,
+      "high": 219.4,
+      "totalVolumeTraded": 281271
+    },
+    {
+      "timestamp": 1686780000000,
+      "open": 218.0,
+      "close": 217.8,
+      "low": 214.8,
+      "high": 219.0,
+      "totalVolumeTraded": 298735
+    },
+    {
+      "timestamp": 1686866400000,
+      "open": 219.0,
+      "close": 220.2,
+      "low": 218.9,
+      "high": 222.9,
+      "totalVolumeTraded": 397818
+    },
+    {
+      "timestamp": 1687125600000,
+      "open": 218.3,
+      "close": 213.8,
+      "low": 213.6,
+      "high": 218.3,
+      "totalVolumeTraded": 296050
+    },
+    {
+      "timestamp": 1687212000000,
+      "open": 213.0,
+      "close": 211.0,
+      "low": 210.6,
+      "high": 214.3,
+      "totalVolumeTraded": 293299
+    },
+    {
+      "timestamp": 1687298400000,
+      "open": 210.5,
+      "close": 208.3,
+      "low": 207.7,
+      "high": 211.5,
+      "totalVolumeTraded": 250942
+    },
+    {
+      "timestamp": 1687384800000,
+      "open": 206.6,
+      "close": 208.7,
+      "low": 205.7,
+      "high": 209.6,
+      "totalVolumeTraded": 208854
+    },
+    {
+      "timestamp": 1687730400000,
+      "open": 207.8,
+      "close": 207.9,
+      "low": 203.9,
+      "high": 208.9,
+      "totalVolumeTraded": 284698
+    },
+    {
+      "timestamp": 1687816800000,
+      "open": 207.9,
+      "close": 214.0,
+      "low": 207.4,
+      "high": 214.1,
+      "totalVolumeTraded": 254828
+    },
+    {
+      "timestamp": 1687903200000,
+      "open": 215.1,
+      "close": 215.8,
+      "low": 211.4,
+      "high": 216.2,
+      "totalVolumeTraded": 362620
+    },
+    {
+      "timestamp": 1687989600000,
+      "open": 215.8,
+      "close": 214.9,
+      "low": 214.3,
+      "high": 218.5,
+      "totalVolumeTraded": 227434
+    },
+    {
+      "timestamp": 1688076000000,
+      "open": 216.2,
+      "close": 219.5,
+      "low": 214.6,
+      "high": 219.8,
+      "totalVolumeTraded": 292584
+    },
+    {
+      "timestamp": 1688335200000,
+      "open": 219.5,
+      "close": 218.8,
+      "low": 216.6,
+      "high": 219.8,
+      "totalVolumeTraded": 169268
+    },
+    {
+      "timestamp": 1688421600000,
+      "open": 218.8,
+      "close": 220.2,
+      "low": 217.7,
+      "high": 222.0,
+      "totalVolumeTraded": 209137
+    },
+    {
+      "timestamp": 1688508000000,
+      "open": 214.0,
+      "close": 217.7,
+      "low": 210.7,
+      "high": 219.4,
+      "totalVolumeTraded": 465114
+    },
+    {
+      "timestamp": 1688594400000,
+      "open": 216.8,
+      "close": 215.1,
+      "low": 213.5,
+      "high": 218.0,
+      "totalVolumeTraded": 319675
+    },
+    {
+      "timestamp": 1688680800000,
+      "open": 215.8,
+      "close": 217.2,
+      "low": 207.9,
+      "high": 218.0,
+      "totalVolumeTraded": 363550
+    },
+    {
+      "timestamp": 1688940000000,
+      "open": 216.4,
+      "close": 215.9,
+      "low": 215.0,
+      "high": 218.7,
+      "totalVolumeTraded": 205468
+    },
+    {
+      "timestamp": 1689026400000,
+      "open": 215.9,
+      "close": 217.3,
+      "low": 214.3,
+      "high": 217.7,
+      "totalVolumeTraded": 295828
+    },
+    {
+      "timestamp": 1689112800000,
+      "open": 217.3,
+      "close": 220.1,
+      "low": 214.0,
+      "high": 220.8,
+      "totalVolumeTraded": 282548
+    },
+    {
+      "timestamp": 1689199200000,
+      "open": 220.3,
+      "close": 218.9,
+      "low": 217.6,
+      "high": 222.7,
+      "totalVolumeTraded": 291369
+    },
+    {
+      "timestamp": 1689285600000,
+      "open": 218.9,
+      "close": 223.5,
+      "low": 217.2,
+      "high": 231.3,
+      "totalVolumeTraded": 612452
+    },
+    {
+      "timestamp": 1689544800000,
+      "open": 221.5,
+      "close": 226.6,
+      "low": 216.7,
+      "high": 229.1,
+      "totalVolumeTraded": 339406
+    },
+    {
+      "timestamp": 1689631200000,
+      "open": 226.2,
+      "close": 226.0,
+      "low": 223.8,
+      "high": 227.5,
+      "totalVolumeTraded": 189584
+    },
+    {
+      "timestamp": 1689717600000,
+      "open": 226.1,
+      "close": 238.0,
+      "low": 226.1,
+      "high": 238.7,
+      "totalVolumeTraded": 502968
+    },
+    {
+      "timestamp": 1689804000000,
+      "open": 236.2,
+      "close": 236.8,
+      "low": 233.8,
+      "high": 237.8,
+      "totalVolumeTraded": 146219
+    },
+    {
+      "timestamp": 1689890400000,
+      "open": 235.3,
+      "close": 236.7,
+      "low": 233.7,
+      "high": 237.0,
+      "totalVolumeTraded": 143088
+    },
+    {
+      "timestamp": 1690149600000,
+      "open": 234.8,
+      "close": 236.4,
+      "low": 234.8,
+      "high": 240.5,
+      "totalVolumeTraded": 213035
+    },
+    {
+      "timestamp": 1690236000000,
+      "open": 236.4,
+      "close": 241.8,
+      "low": 235.8,
+      "high": 241.9,
+      "totalVolumeTraded": 180751
+    },
+    {
+      "timestamp": 1690322400000,
+      "open": 241.1,
+      "close": 241.6,
+      "low": 238.3,
+      "high": 241.8,
+      "totalVolumeTraded": 158194
+    },
+    {
+      "timestamp": 1690408800000,
+      "open": 242.6,
+      "close": 239.0,
+      "low": 238.5,
+      "high": 245.4,
+      "totalVolumeTraded": 151667
+    },
+    {
+      "timestamp": 1690495200000,
+      "open": 239.0,
+      "close": 239.8,
+      "low": 236.8,
+      "high": 240.6,
+      "totalVolumeTraded": 178216
+    },
+    {
+      "timestamp": 1690754400000,
+      "open": 239.8,
+      "close": 238.3,
+      "low": 235.5,
+      "high": 239.8,
+      "totalVolumeTraded": 113567
+    },
+    {
+      "timestamp": 1690840800000,
+      "open": 237.8,
+      "close": 234.8,
+      "low": 232.8,
+      "high": 237.8,
+      "totalVolumeTraded": 150693
+    },
+    {
+      "timestamp": 1690927200000,
+      "open": 231.4,
+      "close": 230.5,
+      "low": 229.8,
+      "high": 234.5,
+      "totalVolumeTraded": 199786
+    },
+    {
+      "timestamp": 1691013600000,
+      "open": 229.7,
+      "close": 233.4,
+      "low": 229.5,
+      "high": 237.2,
+      "totalVolumeTraded": 169278
+    },
+    {
+      "timestamp": 1691100000000,
+      "open": 235.0,
+      "close": 239.6,
+      "low": 234.8,
+      "high": 239.7,
+      "totalVolumeTraded": 204269
+    },
+    {
+      "timestamp": 1691359200000,
+      "open": 238.0,
+      "close": 238.6,
+      "low": 236.4,
+      "high": 240.7,
+      "totalVolumeTraded": 112230
+    },
+    {
+      "timestamp": 1691445600000,
+      "open": 236.7,
+      "close": 236.2,
+      "low": 235.4,
+      "high": 239.2,
+      "totalVolumeTraded": 157261
+    },
+    {
+      "timestamp": 1691532000000,
+      "open": 236.2,
+      "close": 237.6,
+      "low": 236.1,
+      "high": 242.1,
+      "totalVolumeTraded": 162825
+    },
+    {
+      "timestamp": 1691618400000,
+      "open": 237.6,
+      "close": 239.5,
+      "low": 237.6,
+      "high": 241.1,
+      "totalVolumeTraded": 123714
+    },
+    {
+      "timestamp": 1691704800000,
+      "open": 239.4,
+      "close": 233.6,
+      "low": 232.9,
+      "high": 239.5,
+      "totalVolumeTraded": 131969
+    },
+    {
+      "timestamp": 1691964000000,
+      "open": 232.8,
+      "close": 235.5,
+      "low": 231.4,
+      "high": 236.4,
+      "totalVolumeTraded": 133226
+    },
+    {
+      "timestamp": 1692050400000,
+      "open": 235.5,
+      "close": 230.9,
+      "low": 230.2,
+      "high": 235.5,
+      "totalVolumeTraded": 115919
+    },
+    {
+      "timestamp": 1692136800000,
+      "open": 229.9,
+      "close": 234.1,
+      "low": 228.5,
+      "high": 234.7,
+      "totalVolumeTraded": 168330
+    },
+    {
+      "timestamp": 1692223200000,
+      "open": 231.0,
+      "close": 225.8,
+      "low": 224.0,
+      "high": 233.0,
+      "totalVolumeTraded": 313189
+    },
+    {
+      "timestamp": 1692309600000,
+      "open": 225.7,
+      "close": 223.0,
+      "low": 219.0,
+      "high": 225.7,
+      "totalVolumeTraded": 158360
+    },
+    {
+      "timestamp": 1692568800000,
+      "open": 220.8,
+      "close": 217.5,
+      "low": 217.5,
+      "high": 222.6,
+      "totalVolumeTraded": 155233
+    },
+    {
+      "timestamp": 1692655200000,
+      "open": 217.5,
+      "close": 217.4,
+      "low": 216.9,
+      "high": 221.6,
+      "totalVolumeTraded": 145377
+    },
+    {
+      "timestamp": 1692741600000,
+      "open": 217.4,
+      "close": 216.3,
+      "low": 215.1,
+      "high": 218.8,
+      "totalVolumeTraded": 130629
+    },
+    {
+      "timestamp": 1692828000000,
+      "open": 217.0,
+      "close": 215.4,
+      "low": 215.0,
+      "high": 217.8,
+      "totalVolumeTraded": 127514
+    },
+    {
+      "timestamp": 1692914400000,
+      "open": 215.0,
+      "close": 213.5,
+      "low": 213.4,
+      "high": 217.7,
+      "totalVolumeTraded": 157811
+    },
+    {
+      "timestamp": 1693173600000,
+      "open": 214.9,
+      "close": 217.1,
+      "low": 214.2,
+      "high": 217.8,
+      "totalVolumeTraded": 144579
+    },
+    {
+      "timestamp": 1693260000000,
+      "open": 217.1,
+      "close": 215.0,
+      "low": 213.7,
+      "high": 217.3,
+      "totalVolumeTraded": 270918
+    },
+    {
+      "timestamp": 1693346400000,
+      "open": 216.2,
+      "close": 215.1,
+      "low": 213.9,
+      "high": 217.1,
+      "totalVolumeTraded": 204370
+    },
+    {
+      "timestamp": 1693432800000,
+      "open": 214.9,
+      "close": 212.0,
+      "low": 211.3,
+      "high": 214.9,
+      "totalVolumeTraded": 421243
+    },
+    {
+      "timestamp": 1693519200000,
+      "open": 211.0,
+      "close": 209.5,
+      "low": 208.1,
+      "high": 212.9,
+      "totalVolumeTraded": 245283
+    }
+  ]
+}
