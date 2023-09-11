@@ -77,7 +77,7 @@ export const SimpleChart = ({ data }: { data: MergedDataPoint[] }) => {
 
   return (
     <div>
-      <div style={{ width: "800px", height: "400px" }} ref={chartContainerRef} />
+      <div style={{ width: "100%", height: "400px" }} ref={chartContainerRef} />
     </div>
   );
 };

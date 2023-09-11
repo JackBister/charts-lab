@@ -52,5 +52,5 @@ export const CandlestickChart = ({ data }: { data: MergedDataPoint[] }) => {
     };
   }, [data]);
 
-  return <div style={{ width: "800px" }} ref={chartContainerRef} />;
+  return <div style={{ width: "100%" }} ref={chartContainerRef} />;
 };

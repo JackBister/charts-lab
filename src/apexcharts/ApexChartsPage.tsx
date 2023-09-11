@@ -16,7 +16,7 @@ export const ApexChartsPage = () => {
     return () => clearInterval(interval);
   });
   return (
-    <div>
+    <div style={{ padding: "0", overflowX: "hidden" }}>
       <Link to="/">Tillbaka</Link>
       <h1>Enkel graf</h1>
       <SimpleChart data={data} />

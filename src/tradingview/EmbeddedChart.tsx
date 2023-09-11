@@ -27,7 +27,7 @@ function TradingViewWidget() {
             ]
           ],
           "chartOnly": false,
-          "width": 1000,
+          "width": "100%",
           "height": 500,
           "locale": "en",
           "colorTheme": "light",

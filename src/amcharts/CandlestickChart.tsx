@@ -182,7 +182,7 @@ export const CandlestickChart = ({ data }: { data: MergedDataPoint[] }) => {
   return (
     <div style={{ backgroundColor: "white" }}>
       <div ref={toolbarContainerRef}></div>
-      <div style={{ width: "800px", height: "400px" }} ref={chartContainerRef}></div>
+      <div style={{ width: "100%", height: "400px" }} ref={chartContainerRef}></div>
     </div>
   );
 };

@@ -9,7 +9,6 @@ import * as transactions from "../assets/transactions.json";
 export const CandlestickChart = ({ data }: { data: MergedDataPoint[] }) => {
   const options: Highcharts.Options = {
     chart: {
-      width: 800,
       height: 400,
     },
     credits: {
