@@ -21,6 +21,7 @@
 ### Övrigt
 
 - Lite svårt att få in köp- och säljpluppar i tooltippen. Försökte fejka det genom att göra en serie av transaktionerna men det blir inte helt lyckat pga. [denna bugg](https://github.com/apexcharts/apexcharts.js/issues/420)
+- Inget inbyggt stöd för att lägga labels på insidan av axlarna, behöver meckas med offsets och absolut-positionering
 
 ## [Recharts](https://recharts.org/en-US/)
 
